@@ -11,6 +11,7 @@ Manipulation de DataFrames complexes (jointures, filtres conditionnels).
 Calcul d'indicateurs démographiques et sanitaires globaux.
 
 🛠 Stack : Python (Pandas, Numpy)
+
 <img src="images/Capture d'écran 2025-10-01 115855.png" width="500px"><img src="images/Capture d'écran 2025-10-01 115846.png" width="500px">
 
 <img src="images/Capture d'écran 2025-09-24 122648.png" width="500px"><img src="images/Capture d'écran 2025-09-18 104721.png" width="500px">
